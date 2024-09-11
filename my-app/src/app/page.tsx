@@ -110,6 +110,26 @@ export default function LandingPage() {
           </div>
         </section>
 
+
+        <section id="features-1" className="container mx-auto py-20 px-4">
+          <h2 className="text-4xl font-bold text-center text-pink-600 mb-12">Features</h2>
+          <div className="grid grid-cols-3 gap-8">
+            {[
+              { title: 'Daily Questions', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-vEwhMXOLpLl34Qg75iHn0NA0IbMOyJ.png' },
+              { title: 'AI Coach', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-elvgPPaDkE6wReNEzirHdVFQ2AVx7x.png' },
+              { title: 'Engagement Tools', image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-qAla7snAPRRtZOEnLgFlXktprSAyBS.png' }
+            ].map((feature, index) => (
+              <div key={index} className="text-center transform hover:scale-105 transition-transform duration-300">
+                <div className="relative w-64 h-64 mx-auto mb-4 overflow-hidden rounded-lg">
+                  <Image src={feature.image} alt={feature.title} layout="fill" objectFit="cover" />
+                </div>
+                <h3 className="text-xl font-semibold mb-2 text-pink-600">{feature.title}</h3>
+                <p className="text-gray-600">Enhance your relationship with our innovative features.</p>
+              </div>
+            ))}
+          </div>
+        </section>
+
         <section className="py-20 px-6 bg-gradient-to-r from-pink-100 to-purple-100">
           <div className="container mx-auto">
             <h2 className="text-4xl font-bold text-center text-gray-800 mb-12">How Flamme Adds Value to Your Relationship</h2>
