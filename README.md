@@ -1,5 +1,11 @@
 In WordPress, you can add HTML and CSS in several ways depending on where and how you want to customize your site. Here are some common methods:
 
+![image](https://github.com/user-attachments/assets/38d3cbb7-a241-4210-9bc3-fb9951dcd56a)
+![image](https://github.com/user-attachments/assets/96223e32-f23a-4ece-90cb-f8c2b9cc29ed)
+https://www.youtube.com/watch?v=cNLcaCQP3mI
+
+
+
 ### 1. **Using the Block Editor (Gutenberg)**
    - **Add HTML:**
      - Open the page or post you want to edit.
