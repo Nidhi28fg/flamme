@@ -2,6 +2,7 @@ In WordPress, you can add HTML and CSS in several ways depending on where and ho
 
 ![image](https://github.com/user-attachments/assets/38d3cbb7-a241-4210-9bc3-fb9951dcd56a)
 ![image](https://github.com/user-attachments/assets/96223e32-f23a-4ece-90cb-f8c2b9cc29ed)
+
 https://www.youtube.com/watch?v=cNLcaCQP3mI
 
 
