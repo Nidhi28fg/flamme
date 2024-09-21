@@ -5,6 +5,8 @@ In WordPress, you can add HTML and CSS in several ways depending on where and ho
 
 ![image](https://github.com/user-attachments/assets/b6c1d32a-0d4c-40e2-8b40-4a62464be09f)
 ![image](https://github.com/user-attachments/assets/6007d501-35ab-41f0-b89c-555d86d29300)
+![image](https://github.com/user-attachments/assets/a7ccdc60-701f-49d2-922a-d264288d0eb7)
+
 
 
 https://www.youtube.com/watch?v=cNLcaCQP3mI
