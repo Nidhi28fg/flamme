@@ -1,4 +1,7 @@
 In WordPress, you can add HTML and CSS in several ways depending on where and how you want to customize your site. Here are some common methods:
+Animation 
+![image](https://github.com/user-attachments/assets/bfc4f991-3377-4da0-9594-9cb89b226390)
+
 
 ![image](https://github.com/user-attachments/assets/38d3cbb7-a241-4210-9bc3-fb9951dcd56a)
 ![image](https://github.com/user-attachments/assets/96223e32-f23a-4ece-90cb-f8c2b9cc29ed)
